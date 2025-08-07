@@ -2,7 +2,8 @@ XZai - 训练独属于你的AI朋友
 项目概述
 XZai是一个基于Python开发的智能对话系统，采用ChatterBot框架构建，具备知识学习能力和个性化训练功能。该系统不仅能进行自然语言对话，还能通过用户训练不断扩展知识库，最终成为专属于用户的AI伙伴。
 
-![Uploading QQ_1754544545931.png…]()
+<img width="898" height="676" alt="QQ_1754544545931" src="https://github.com/user-attachments/assets/f6163877-12e4-4dc9-b6ac-50bf4d642494" />
+
 
 
 核心功能详解
@@ -91,7 +92,7 @@ pip install chatterbot==1.0.5 sv-ttk pywin32
 运行程序：
 
 bash
-python xzAI平原.py
+python xzAI.py
 训练模式操作流程
 通过按钮或输入train:open进入训练模式
 
