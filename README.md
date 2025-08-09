@@ -1,3 +1,4 @@
+XZai2.0版本介绍入口：https://li958633.github.io/dmxzweb/post/xzai2.0---%E8%AE%AD%E7%BB%83%E7%8B%AC%E5%B1%9E%E4%BA%8E%E4%BD%A0%E7%9A%84ai%E6%9C%8B%E5%8F%8B/
 XZai - 训练独属于你的AI朋友
 项目概述
 XZai是一个基于Python开发的智能对话系统，采用ChatterBot框架构建，具备知识学习能力和个性化训练功能。该系统不仅能进行自然语言对话，还能通过用户训练不断扩展知识库，最终成为专属于用户的AI伙伴。
